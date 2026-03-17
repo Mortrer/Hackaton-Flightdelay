@@ -29,4 +29,4 @@ Implementé capas de validación técnica para garantizar que los datos de entra
 Participé activamente en sesiones de arquitectura para definir el flujo del trabajo.
 
 ---
-[cite_start]*Desarrollado para el Flight Delay Hackathon 2026.* [cite: 11]
+*Desarrollado para el Flight Delay Hackathon 2026.*
