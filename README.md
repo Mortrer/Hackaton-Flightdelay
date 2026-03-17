@@ -18,10 +18,10 @@ Implementé capas de validación técnica para garantizar que los datos de entra
 ---
 
 ## 💻 Stack Tecnológico Utilizado
-* [cite_start]**Lenguaje:** Java 21 [cite: 11, 13]
-* [cite_start]**Framework:** Spring Boot [cite: 11, 13]
-* [cite_start]**Base de Datos:** PostgreSQL / Docker [cite: 13]
-* [cite_start]**Documentación:** Swagger / OpenAPI [cite: 13]
+* **Lenguaje:** Java 21
+* **Framework:** Spring Boot
+* **Base de Datos:** PostgreSQL / Docker
+* **Documentación:** Swagger / OpenAPI
 
 ---
 
