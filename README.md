@@ -26,7 +26,7 @@ Implementé capas de validación técnica para garantizar que los datos de entra
 ---
 
 ## 🤝 Colaboración y Metodología
-Participé activamente en sesiones de arquitectura para definir el flujo del trabajo.
+Participé activamente en sesiones de arquitectura para comprender el funcionamiento general del sistema y colaborar en la definición del flujo de trabajo.
 
 ---
 *Desarrollado para el Flight Delay Hackathon 2026.*
